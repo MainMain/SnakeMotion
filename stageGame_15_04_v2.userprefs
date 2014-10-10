@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game 5 - Shooting gallery\Scripts\BallShoot.cs">
+    <Files>
+      <File FileName="Assets\Game 5 - Shooting gallery\Scripts\BallShoot.cs" Line="29" Column="49" />
+      <File FileName="Assets\Game 5 - Shooting gallery\Scripts\GameManager.cs" Line="44" Column="6" />
+      <File FileName="Assets\Game 5 - Shooting gallery\Scripts\ObjectSpawner.cs" Line="21" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

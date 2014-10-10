@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game Marble game\Scripts\MarbleControl.cs">
+    <Files>
+      <File FileName="Assets\Game Catch eggs\Scripts\OptionEgg.cs" Line="30" Column="50" />
+      <File FileName="Assets\Game Marble game\Scripts\MarbleControl.cs" Line="114" Column="5" />
+      <File FileName="Assets\Game Catch eggs\Scripts\PlayerScript.cs" Line="98" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

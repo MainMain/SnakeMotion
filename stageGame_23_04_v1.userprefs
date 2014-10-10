@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game 3 - Marble game\Scripts\MarbleControl.cs">
+    <Files>
+      <File FileName="Assets\Game 3 - Marble game\Scripts\OptionMarble.cs" Line="36" Column="3" />
+      <File FileName="Assets\Game 3 - Marble game\Scripts\MarbleControl.cs" Line="51" Column="4" />
+      <File FileName="Assets\Game 3 - Marble game\Scripts\CameraTop.cs" Line="21" Column="3" />
+      <File FileName="Assets\Game 3 - Marble game\Scripts\MarbleCamera.cs" Line="13" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

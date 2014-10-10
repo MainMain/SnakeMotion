@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game Plane\Aircraft\Scripts\AeroplaneUserControl2Axis.cs">
+    <Files>
+      <File FileName="Assets\Game Plane\Scripts\GameControlPlane.cs" Line="99" Column="1" />
+      <File FileName="Assets\Game Plane\Aircraft\Scripts\AeroplaneUserControl2Axis.cs" Line="44" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
